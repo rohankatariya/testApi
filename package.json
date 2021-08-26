@@ -1,0 +1,9 @@
+{
+  "name": "queryTest",
+  "version": "1.0",
+  "description": "Test",
+  "main": "index.js",
+  "dependencies": {
+   "express": "*" 
+  }
+}
